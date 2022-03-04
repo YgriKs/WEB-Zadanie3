@@ -1,0 +1,49 @@
+body {
+    background-color: #f8f8f8;
+    text-align: left;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 25px;
+    color: black;
+    background-color: #d0d0d0;
+}
+
+
+footer {
+    text-align: center;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.short {
+    color: black;
+    font-size: 16px;
+    line-height: 16px;
+    font-weight: 700;
+}
+
+.long {
+    color: black;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+}
+
+.list {
+    font-style: oblique;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.namebook {
+    font-style: italic;
+}
+
+.char {
+    font-weight: 400;
+    font-style: normal;
+}
